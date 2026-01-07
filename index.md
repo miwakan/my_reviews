@@ -55,7 +55,6 @@ title: My Library
     {% endif %}
 
     <div style="margin-top:5px; color:#666;">
-      
       {% if post.release_date %}
         📅 公開/発売: {{ post.release_date }}
       {% endif %}
@@ -67,8 +66,8 @@ title: My Library
       {% if post.date %}
         ✅ 完了日: {{ post.date | date: "%Y-%m-%d" }}
       {% endif %}
-
     </div>
+
   </div>
 
   <div style="margin-top:15px;">

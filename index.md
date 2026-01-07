@@ -3,8 +3,6 @@ layout: default
 title: My Library
 ---
 
-# 📚 私のライブラリ
-
 {% for post in site.posts %}
 <div style="border:1px solid #ddd; padding:20px; margin-bottom:20px; border-radius:8px; background-color: #fff;">
   

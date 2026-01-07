@@ -74,3 +74,7 @@ title: My Library
 
 </div>
 {% endfor %}
+
+<style>
+  header { display: none !important; }
+</style>

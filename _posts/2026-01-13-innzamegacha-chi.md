@@ -1,7 +1,7 @@
 ---
 title: "イン・ザ・メガチャーチ"
 category: "Book"
-rating: 3.8
+rating: 2.8
 author: "朝井リョウ"
 publisher: "日経BP 日本経済新聞出版"
 release_date: "2025-09-03"

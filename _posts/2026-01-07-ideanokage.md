@@ -1,7 +1,7 @@
 ---
 title: "イデアの影 The shadow of Ideas"
 category: "Book"
-rating: 2.7
+rating: 1.6
 author: "森博嗣"
 publisher: "講談社"
 release_date: "2025-06-13"
